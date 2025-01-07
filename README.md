@@ -1,4 +1,4 @@
-<h1>Conversational AI Assistant for Retail Dashboard Interaction</h1>
+<h1>Conversational AI Data Analyst Agent</h1>
 <h2>Retail Analytics Sector</h2>
 An innovative artificial intelligence solution that transforms the way retail professionals interact with their data dashboards. This sophisticated system understands natural language queries and converts them into meaningful visualizations and insights, enabling everyone from store managers to executives to access powerful data analysis without technical expertise. The assistant acts as an intelligent interpreter between retail professionals and their data, making complex analysis as simple as having a conversation.
 <h2>Problem Statement</h2>
