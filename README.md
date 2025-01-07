@@ -2,7 +2,7 @@
 <h2>Retail Analytics Sector</h2>
 An innovative artificial intelligence solution that transforms the way retail professionals interact with their data dashboards. This sophisticated system understands natural language queries and converts them into meaningful visualizations and insights, enabling everyone from store managers to executives to access powerful data analysis without technical expertise. The assistant acts as an intelligent interpreter between retail professionals and their data, making complex analysis as simple as having a conversation.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Wn__GRBF20/0.jpg)](https://www.youtube.com/watch?v=Wn__GRBF20)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-Wn__GRBF20/0.jpg)](https://www.youtube.com/watch?v=-Wn__GRBF20)
 
 <h2>Problem Statement</h2>
 Retail professionals often struggle to extract meaningful business intelligence from their data dashboards due to technical barriers and the complexity of traditional business intelligence tools. Many team members spend excessive time trying to create or modify visualizations, or rely heavily on technical staff for basic data analysis. This creates bottlenecks in decision-making processes and prevents retail teams from fully leveraging their data for quick, informed decisions. Furthermore, the creation and distribution of regular reports consumes valuable time that could be better spent on strategic activities.
